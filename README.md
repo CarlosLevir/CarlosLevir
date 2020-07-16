@@ -16,8 +16,6 @@
 Hi there 👋🏻  
 I'm Carlos Levir, Software Engineer at [Novatics](https://novatics.com), working over React.Js ecosystem.
 
-My favourites tools: <img src="./assets/ts.png" width="20"/> <b>TypeScript</b>, <img src="./assets/react.png" width="20"/> <b>React Js & React Native</b>, <img src="./assets/node.png" width="20"/> <b>Node Js</b>
+My favourites tools: <img src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/> <b>TypeScript</b>, <img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b>React Js & React Native</b>, <img src="https://i.ibb.co/vVxmyN2/node.png" width="20"/> <b>Node Js</b>
 
-Currently learning: <img src="./assets/graphql.png" width="20"/> <b>GraphQL</b>, <img src="./assets/apollo.png" width="20"/> <b>Apollo</b>
-
-
+Currently learning: <img src="https://i.ibb.co/2nrNSzf/graphql.png" width="20"/> <b>GraphQL</b>, <img src="https://i.ibb.co/T0XzYVK/apollo.png" width="20"/> <b>Apollo</b>
