@@ -14,7 +14,7 @@
 ## 👨🏻‍💻 A little bit about me
 
 Hi there 👋🏻  
-I'm Carlos Levir, Software Engineer at [Novatics](https://novatics.com), working over React.Js ecosystem.
+I'm Carlos Levir, Software Engineer at [Novatics](https://novatics.com.br), working over React.Js ecosystem.
 
 My favourites tools: <img src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/> <b>TypeScript</b>, <img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b>React Js & React Native</b>, <img src="https://i.ibb.co/vVxmyN2/node.png" width="20"/> <b>Node Js</b>
 
