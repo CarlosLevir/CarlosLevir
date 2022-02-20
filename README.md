@@ -14,7 +14,7 @@
 ## 👨🏻‍💻 A little bit about me
 
 Hi there 👋🏻  
-I'm Carlos Levir, Software Engineer at [Traders Club](https://tc.com.br/), working over React.Js and React Native ecosystem.
+I'm Carlos Levir, Software Engineer at [MessageBird](https://www.messagebird.com/en/), working over React.Js ecosystem.
 
 My favourites tools: <img src="https://i.ibb.co/PZ2XZgr/ts.png" width="20"/> <b>TypeScript</b>, <img src="https://i.ibb.co/4RHMmLQ/react.png" width="20"/> <b>React Js & React Native</b>, <img src="https://i.ibb.co/vVxmyN2/node.png" width="20"/> <b>Node Js</b>
 
